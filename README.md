@@ -10,7 +10,7 @@
  Project - Investigate a Dataset
  Choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing findings.
 
- [Investigate a dataset: No-show appointments] (Project-1/Medical-Appointment-No-Shows.ipynb)
+ Investigate a dataset: No-show appointments
 
 
 
